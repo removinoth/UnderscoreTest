@@ -1,13 +1,13 @@
 # UnderscoreTest
 Test underscore concept.
 
-Use
+# Use
   npm install
 
-Run
+# Run
   node underscoretest.js
 
-Execute command
+# Execute command
   Type the underscore function name.
     eg.) first - to return first element of array.
          last  - to return last element of array.
